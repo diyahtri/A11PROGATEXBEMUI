@@ -1,2 +1,3 @@
 # A11PROGATEXBEMUI
-Proyek Tim
+PROGATE-X-BEM-UI
+Kelompok A11
